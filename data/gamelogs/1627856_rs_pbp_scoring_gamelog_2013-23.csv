@@ -1,0 +1,5 @@
+"Date","Team","Opponent","Minutes","OffPoss","Points","FG2M","FG2A","Fg2Pct","FG3M","FG3A","Fg3Pct","NonHeaveFg3Pct","FtPoints","PtsAssisted2s","PtsUnassisted2s","PtsAssisted3s","PtsUnassisted3s","Assisted2sPct","NonPutbacksAssisted2sPct","Assisted3sPct","FG3APct","ShotQualityAvg","EfgPct","TsPct","PtsPutbacks","Fg2aBlocked","FG2APctBlocked","Fg3aBlocked","FG3APctBlocked","Usage"
+"2017-11-11","SAS","CHI","10:34",22,2,1,1,1,0,0,0,0,0,2,0,0,0,1,1,0,0,0.6754,1,1,0,0,0,0,0,4.3478260869565215
+"2018-01-08","SAS","SAC","04:28",7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3248,0,0,0,0,0,0,0,11.11111111111111
+"2018-01-11","SAS","LAL","02:34",5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7592,0,0,0,0,0,0,0,33.333333333333336
+"2018-03-12","SAS","HOU","14:36",30,2,1,1,1,0,0,0,0,0,2,0,0,0,1,1,0,0,0.5673,1,1,0,0,0,0,0,3.125

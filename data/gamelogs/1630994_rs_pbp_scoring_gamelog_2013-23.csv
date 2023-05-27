@@ -1,0 +1,5 @@
+"Date","Team","Opponent","Minutes","OffPoss","Points","FG2M","FG2A","Fg2Pct","FG3M","FG3A","Fg3Pct","NonHeaveFg3Pct","FtPoints","PtsAssisted2s","PtsUnassisted2s","PtsAssisted3s","PtsUnassisted3s","Assisted2sPct","NonPutbacksAssisted2sPct","Assisted3sPct","FG3APct","ShotQualityAvg","EfgPct","TsPct","PtsPutbacks","Fg2aBlocked","FG2APctBlocked","Fg3aBlocked","FG3APctBlocked","Usage"
+"2022-04-03","PHX","OKC","04:14",8,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0.5,0.46545,0,0,0,0,0,0,0,37.5
+"2022-04-05","PHX","LAL","01:04",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+"2022-04-06","PHX","LAC","12:00",28,3,0,2,0,1,2,0.5,0.5,0,0,0,0,3,0,0,0,0.5,0.4463625,0.375,0.375,0,0,0,0,0,14.285714285714286
+"2022-04-10","PHX","SAC","26:54",56,10,2,8,0.25,2,5,0.4,0.4,0,0,4,6,0,0,0,1,0.38461538461538464,0.48468461538461544,0.38461538461538464,0.38461538461538464,0,2,0.25,0,0,20

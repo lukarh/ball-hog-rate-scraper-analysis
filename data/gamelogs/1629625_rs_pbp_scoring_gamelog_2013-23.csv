@@ -1,0 +1,5 @@
+"Date","Team","Opponent","Minutes","OffPoss","Points","FG2M","FG2A","Fg2Pct","FG3M","FG3A","Fg3Pct","NonHeaveFg3Pct","FtPoints","PtsAssisted2s","PtsUnassisted2s","PtsAssisted3s","PtsUnassisted3s","Assisted2sPct","NonPutbacksAssisted2sPct","Assisted3sPct","FG3APct","ShotQualityAvg","EfgPct","TsPct","PtsPutbacks","Fg2aBlocked","FG2APctBlocked","Fg3aBlocked","FG3APctBlocked","Usage"
+"2020-02-21","UTA","SAS","01:32",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2020-08-07","UTA","SAS","11:24",26,8,3,5,0.6,0,3,0,0,2,2,4,0,0,0.3333333333333333,0.3333333333333333,0,0.375,0.482475,0.375,0.4444444444444444,0,0,0,0,0,33.33333333333333
+"2020-08-10","UTA","DAL","15:16",29,7,0,1,0,2,4,0.5,0.5,1,0,0,3,3,0,0,0.5,0.8,0.52502,0.6,0.5833333333333334,0,0,0,0,0,18.75
+"2020-08-13","UTA","SAS","16:57",36,4,2,4,0.5,0,3,0,0,0,2,2,0,0,0.5,0.5,0,0.42857142857142855,0.4324571428571429,0.2857142857142857,0.2857142857142857,0,1,0.25,0,0,20
