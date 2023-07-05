@@ -36,8 +36,6 @@ $BHR=\frac{T}{P\times A}=\frac{min\times\frac{60s}{min}}{possessions\times\frac{
 
 ![durant_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/b9829cae-8e97-4a80-aa57-4292029f700e)
 
-![harden_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/dd40b4fb-3700-4141-8f73-b6991faa84c2)
-
 ![pg13_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/10e782be-31b1-4cbe-8587-a6339a6e915d)
 
 ![jokic_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/2c1cf4c6-4e44-48cc-9527-b54e321683f3)
