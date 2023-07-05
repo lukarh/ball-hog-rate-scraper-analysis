@@ -9,5 +9,7 @@
 $BHR=\frac{T}{P\times A}=\frac{min\times\frac{60s}{min}}{possessions\times\frac{s}{possessions}}$
 
 **$T$**: Total Time Spent with the Ball in their Hand (mins): provided by [stats.nba.com](https://www.nba.com/stats/players/touches?dir=D&sort=TIME_OF_POSS)
+
 **$P$**: Total Number of Offensive Possessions Played (possessions): provided by [pbpstats.com](https://www.pbpstats.com/totals/nba/player?Season=2022-23&SeasonType=Regular%2BSeason)
+
 **$A$**: Average Seconds Per Possession with x Player on the floor (seconds / possessions): provided by [pbpstats.com](https://www.pbpstats.com/on-off/nba/stat?Season=2022-23&SeasonType=Regular%2BSeason&TeamId=1610612737&Stat=SecondsPerPossOff)
