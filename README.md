@@ -28,17 +28,26 @@ $BHR=\frac{T}{P\times A}=\frac{min\times\frac{60s}{min}}{possessions\times\frac{
 
 #### How Star Players have seen their Ball-Handling Responsibilities change over the years:
 
-![lebron_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/05e07489-f01f-4633-b8bf-c538ab0c9361)
+![westbrook_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/53a88a76-51b2-4c51-8120-c398c2d52071)
 
-![westbrook_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/e9ad424b-dce3-4c98-8bb3-b384af8a4824)
+![curry_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/9adf6796-1ce7-447d-8178-1fcedd990704)
 
-![curry_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/56950eeb-ae10-4449-b194-6f39756cc515)
+![cp3_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/be316a4f-118e-4994-bf21-b2f918251e5f)
 
-![durant_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/b9829cae-8e97-4a80-aa57-4292029f700e)
+![durant_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/d430de72-0168-4e7f-b3de-de4bb7984500)
 
-![pg13_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/10e782be-31b1-4cbe-8587-a6339a6e915d)
+![lebron_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/d1e72573-7fc1-4532-a129-15f01640f435)
 
-![jokic_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/2c1cf4c6-4e44-48cc-9527-b54e321683f3)
+![jokic_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/61fa718a-d8d6-425d-8c69-80f95c4899b0)
 
-![irving_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/e7d1a122-f2b4-426f-921e-9299ba67e3d8)
+![irving_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/f0f4d3a8-d9e9-4949-86fe-6a6ffc3f0fd5)
+
+![pg13_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/473c140e-0133-48ec-9e3f-99ec9357b61a)
+
+![leonard_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/58479070-a754-410f-955d-0c32aa41fa69)
+
+![butler_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/2f226247-5b5b-4e38-9769-67a0cf0b1262)
+
+![lowry_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/8ea4bec8-02d7-42b3-a1ce-43e88ee3ccd7)
+
 
