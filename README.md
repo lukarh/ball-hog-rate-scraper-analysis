@@ -4,6 +4,10 @@
 
 In the modern NBA era, there often discussions that X player dominants the ball too much or a lot, Y player doesn't need the ball in his hands to be an effective scorer, or Z player needs to be on the ball more or off the ball more if V player comes in- the examples go on and on. Often times, these discussions are wrapped around mental estimates based on observations from players, however, we can actually calculate "ball-hog rate", or in other words, how often the player has the ball in their hands when they are on the floor, using publicly available data from various sources. The official stats.nba.com has insightful tracking data on how long a player has held the ball for (in minutes) by game and total. Except this data is quite meaningless if we can't normalize these rates to account for various playing time, role, and opportunity that each player is subjected to by game. Therefore, we have to source data from pbpstats.com to create meaningful insights with this tracking data. 
 
+## Languages, Tools, and Libraries/Packages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 ### How To Calculate Ball-Hog Rate
 
 **Ball-Hog Rate:** The percent / proportion amount of time spent on offense with the ball in their hands when they are on the floor.
