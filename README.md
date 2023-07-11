@@ -1,6 +1,6 @@
 # nba-ball-hog-rate-analysis
 
-### Motivation
+## Motivation
 
 In the modern NBA era, there often discussions that X player dominants the ball too much or a lot, Y player doesn't need the ball in his hands to be an effective scorer, or Z player needs to be on the ball more or off the ball more if V player comes in- the examples go on and on. Often times, these discussions are wrapped around mental estimates based on observations from players, however, we can actually calculate "ball-hog rate", or in other words, how often the player has the ball in their hands when they are on the floor, using publicly available data from various sources. The official stats.nba.com has insightful tracking data on how long a player has held the ball for (in minutes) by game and total. Except this data is quite meaningless if we can't normalize these rates to account for various playing time, role, and opportunity that each player is subjected to by game. Therefore, we have to source data from pbpstats.com to create meaningful insights with this tracking data. 
 
@@ -8,7 +8,7 @@ In the modern NBA era, there often discussions that X player dominants the ball 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### How To Calculate Ball-Hog Rate
+## How To Calculate Ball-Hog Rate
 
 **Ball-Hog Rate:** The percent / proportion amount of time spent on offense with the ball in their hands when they are on the floor.
 
@@ -20,17 +20,17 @@ $BHR=\frac{T}{P\times A}=\frac{min\times\frac{60s}{min}}{possessions\times\frac{
 
 **$A$**: Average Seconds Per Possession with x Player on the floor (seconds / possessions): provided by [pbpstats.com](https://www.pbpstats.com/on-off/nba/stat?Season=2022-23&SeasonType=Regular%2BSeason&TeamId=1610612737&Stat=SecondsPerPossOff)
 
-### Ball-Hog Rate Analysis
+## Ball-Hog Rate Analysis
 
-#### How Teams Divide the Ball-Handling Responsibilities amongst their starters:
+### How Teams Divide the Ball-Handling Responsibilities amongst their starters:
 
 ![2022-23_ball_hog_rates_by_team](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/0b0fc317-b9a3-4164-ba3f-646f097b9839)
 
-#### Ball-Dominant Guards used to dominate the league in the early modern tracking era, but you have to be REALLY good to demand that type of responsibility
+### Ball-Dominant Guards used to dominate the league in the early modern tracking era, but you have to be REALLY good to demand that type of responsibility
 
 ![image](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/a139011c-a5b1-4728-8994-ea6b67031e8a)
 
-#### How Star Players have seen their Ball-Handling Responsibilities change over the years:
+### How Star Players have seen their Ball-Handling Responsibilities change over the years:
 
 ![westbrook_rs_hog_progression_2013-23](https://github.com/lukarh/ball-hog-rate-analysis/assets/65103724/53a88a76-51b2-4c51-8120-c398c2d52071)
 
